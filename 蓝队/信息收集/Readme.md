@@ -5,5 +5,5 @@
 + 当客户需要查看大量ip地址的物理位置？使用[纯真 ip 数据库批量查询 ip 归属地](https://soapffz.com/python/245.html) [脚本点击](./ip归属地.py)
 
 ## 小技巧
-+ 快速下载'证据'`wget -c -r -np -k -L http://ip/` 
++ 快速下载**证据** `wget -c -r -np -k -L http://ip/` 
 + 快速统计 **wc -l *.txt**
