@@ -3,6 +3,8 @@
 >目前是用与ctf的内网环境代理出内网。
 
 ### socat
+>适合?。。。
+
 地址：http://www.iteait.com/archives/603
 
 socat下载:地址
