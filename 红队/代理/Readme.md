@@ -46,6 +46,7 @@ python3 neoreg.py -k password -u http://xx/tunnel.php   #木马
 ![image](https://user-images.githubusercontent.com/63966847/137916175-66737e29-ed2c-4930-930f-10c401f718bf.png)
 
 
-
+### stowaway 
+https://mp.weixin.qq.com/s?__biz=Mzg4NTA0MzgxNQ==&mid=2247485237&idx=1&sn=b7c909bddd742f351ea985eb05dfebc4&chksm=cfafa03df8d8292b6fb20bb6ad9ac650c86a1d708e089aa5abfd33994ddddd2cdb01938d7dec&mpshare=1&scene=23&srcid=1115YPb8VRvCLwiS8wTREoxL&sharer_sharetime=1636967942759&sharer_shareid=33a823b10ae99f33a60db621d83241cb#rd
 
 
